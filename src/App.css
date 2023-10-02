@@ -1,0 +1,16 @@
+div.my-container {
+  font-family: 'Caveat', cursive;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Edu SA Beginner', cursive;
+  font-family: 'Handlee', cursive;
+  
+}
+body{
+  background-color: rgb(61, 10, 18);
+
+}
+* {
+  margin: 0 auto;
+  padding: 0 auto;
+ 
+}
